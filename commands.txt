@@ -1,0 +1,1 @@
+docker exec -it fedc7e15aa0f psql -U postgres auth_microservice
